@@ -17,7 +17,7 @@
                 <br>💻 I'm I'm specializing in Python, T-SQL 
                 <br>🎯 Goals: I want became a data enginner expert
                 <br>🎲 Fun fact: from my first formula in excel, i knew that i wanted to learn how to manipulate data
-                <br>💻 Connect with me on <a href="www.linkedin.com/in/fernandogarciamx">Linkedin</a>
+                <br>💻 Connect with me on <a href="https://www.linkedin.com/in/fernandogarciamx">Linkedin</a>
 </p>
 
 ###
