@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is </Fernando>_ and I'm a data analyst in progress, from the matrix</p>
+<p align="left">My name is Fernando_ and I'm a data analyst in progress, from the matrix</p>
 
 ###
 
@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2009 <br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2009 
+                <br>📚 I'm currently learning Numpy, Pandas
+                <br>💻 I'm I'm specializing in Python, T-SQL 
+                <br>🎯 Goals: I want became a data enginner expert
+                <br>🎲 Fun fact: from my first formula in excel, i knew that i wanted to learn how to manipulate data
+</p>
 
 ###
 
