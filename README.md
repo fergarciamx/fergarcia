@@ -3,7 +3,7 @@
 ###
 
 <p align="left">My name is Fernando_ and I'm a data analyst in progress, from the matrix</p>
-Hey, look <a href="https://fergarciamx.github.io/"> my blog_</a>
+Hey, look <a href="https://fergarciamx.github.io/">my blog_</a>
 
 ###
 
